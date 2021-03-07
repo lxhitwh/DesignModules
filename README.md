@@ -11,3 +11,6 @@
 * simple 简单工厂
 * factory 普通工厂
 * abstract1 抽象工厂
+
+## 建造者模式 builder
+

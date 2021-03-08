@@ -16,4 +16,4 @@
 
 ## 原型模式 prototype
 
-## 适配器模式
+## 适配器模式 adapter

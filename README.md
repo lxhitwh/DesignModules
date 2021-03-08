@@ -15,3 +15,5 @@
 ## 建造者模式 builder
 
 ## 原型模式 prototype
+
+## 适配器模式
